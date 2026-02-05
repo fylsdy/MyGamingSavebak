@@ -1,0 +1,65 @@
+"2050650"
+{
+	"ChangeNumber"		"377"
+	"OSType"		"0"
+	"JustCause2Save00.sav"
+	{
+		"root"		"0"
+		"size"		"891904"
+		"localtime"		"1769961507"
+		"time"		"1769961503"
+		"remotetime"		"1769961507"
+		"sha"		"b45d491144387ba7978cffbacb00dd77c7eae401"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"JustCause2Save01.sav"
+	{
+		"root"		"0"
+		"size"		"891904"
+		"localtime"		"1769953867"
+		"time"		"1769953863"
+		"remotetime"		"1769953867"
+		"sha"		"a89200f42f527c4013b7715bddeffaab321c73ea"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/data00-1.bin"
+	{
+		"root"		"0"
+		"size"		"120796"
+		"localtime"		"1770293194"
+		"time"		"1770293193"
+		"remotetime"		"1770293193"
+		"sha"		"66c2d80044ebb19545bf3a9ee2d97d2543619c18"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/data100Slot.bin"
+	{
+		"root"		"0"
+		"size"		"756476"
+		"localtime"		"1770267163"
+		"time"		"1770267162"
+		"remotetime"		"1770267162"
+		"sha"		"402877b37a793b2931cf9c88dd39688a4eb81a16"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/data101Slot.bin"
+	{
+		"root"		"0"
+		"size"		"751836"
+		"localtime"		"1770267027"
+		"time"		"1770267026"
+		"remotetime"		"1770267026"
+		"sha"		"137ed2698460f9a31047e16996d51e532ea91a71"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
